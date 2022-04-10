@@ -16,11 +16,11 @@ This is a simple calculator created in pure HTML/CSS/Javascript.
 
 1. Create a t2.micro instance
 2. Run the following command:  sudo apt update && sudo apt install docker.io
-3. Run the command: sudo nano dockerfile and write 
-      FROM nginx
-      RUN apt update
-      RUN apt install git -y
-      RUN rm -rf /usr/share/nginx/html
+3. Run the command: sudo nano dockerfile and write <br>
+      FROM nginx<br>
+      RUN apt update<br>
+      RUN apt install git -y<br>
+      RUN rm -rf /usr/share/nginx/html<br>
       RUN git clone https://github.com/sauravinside/calculator-webapp.git /usr/share/nginx/html
 4. After this run: sudo docker build . -t calculator
                  : sudo docker run -itd -p 80:80 calculator
