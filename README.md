@@ -30,6 +30,7 @@ This is a simple calculator created in pure HTML/CSS/Javascript.
 
 ![image](https://user-images.githubusercontent.com/63541034/162613805-02e54160-77d3-4d13-bae9-8c104542bfd0.png)
 
-![image](https://user-images.githubusercontent.com/63541034/162613811-ede4a56b-27fb-4135-8f05-22714a6d4450.png)
+![image](https://user-images.githubusercontent.com/63541034/162613941-41a8151a-5800-43ec-a26e-be52d04fd556.png)
 
-![image](https://user-images.githubusercontent.com/63541034/162613908-2cfaec01-a9a2-49cc-9879-67c3e109d39f.png)
+Content inside docker file:
+![image](https://user-images.githubusercontent.com/63541034/162613811-ede4a56b-27fb-4135-8f05-22714a6d4450.png)
