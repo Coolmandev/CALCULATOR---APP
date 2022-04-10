@@ -26,6 +26,10 @@ This is a simple calculator created in pure HTML/CSS/Javascript.
                  : sudo docker run -itd -p 80:80 calculator
 5. Now check the publiicIPV4:80
 
+![image](https://user-images.githubusercontent.com/63541034/162613856-5635ce86-98e3-4e2f-9c63-da51154f8769.png)
+
 ![image](https://user-images.githubusercontent.com/63541034/162613805-02e54160-77d3-4d13-bae9-8c104542bfd0.png)
 
 ![image](https://user-images.githubusercontent.com/63541034/162613811-ede4a56b-27fb-4135-8f05-22714a6d4450.png)
+
+![image](https://user-images.githubusercontent.com/63541034/162613908-2cfaec01-a9a2-49cc-9879-67c3e109d39f.png)
